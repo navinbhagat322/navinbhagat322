@@ -29,7 +29,7 @@
 - I love to make films, Watch my films on: [<B>youtube</B>](https://www.youtube.com/@Navin_bhagat) .
 - Explore my: [<B>linkedIn</B>](https://www.linkedin.com/in/navin322/)
 - Write to me at: <a href="mailto:navinbhagat322@gmail.com">navinbhagat322@gmail.com</a> | <a href="mailto:kumar.322@iitj.ac.in">kumar.322@iitj.ac.in</a>
-- PS:Why did the machine learning model break up with the dataset?Because it lost interest after too many irrelevant features! 😎🤖
+- PS: Why did the machine learning model break up with the dataset?Because it lost interest after too many irrelevant features! 😎🤖
 
 <br>
 
