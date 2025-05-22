@@ -20,7 +20,6 @@
 <br>
 
 ## 🛠️ Tools & Languages
----
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -52,7 +51,6 @@
 <br>
 
 ## 🤝 Connect with me
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/navin322/" target="_blank">
