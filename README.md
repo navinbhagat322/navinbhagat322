@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Navin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=The+Absolute+learner,+Alumns+of+IIT+Jodhpur](https://readme-typing-svg.herokuapp.com/demo/?color=F7E833&lines=Absolute+learner%2C+Alumns+of+IIT+Jodhpur)](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E833&width=435&lines=Absolute+learner%2C+Alumns+of+IIT+Jodhpur"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=The+Absolute+learner,+Alumn+of+IIT+Jodhpur](https://readme-typing-svg.herokuapp.com/demo/?color=F7E833&lines=Absolute+learner%2C+Alumns+of+IIT+Jodhpur)](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E833&width=435&lines=Absolute+learner%2C+Alumns+of+IIT+Jodhpur"></a>
 </p>
 
 <br>
