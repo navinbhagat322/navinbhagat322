@@ -46,7 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
 </div>
 
+<br>
 ###
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="5%" width="5%"> Connect with me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/navin322/" target="_blank">
