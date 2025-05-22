@@ -19,6 +19,20 @@
 
 <br>
 
+## 😃 About me
+
+- `ML Engineer` intern `cxl`.
+- Product Research and development intern `TATA Steel`.
+- B.Tech from `IIT Jodhpur` with cgpa of `8.15(D.R: 4)`.
+- Ask me about DSA, Machine Learning, Web Dev, Deep Learning, AI, Mathematics, SQL and etc concepts. 
+- I am into fitness, Meditation, Film-making and Photography.
+- I love to make films, Watch my films on: [<B>youtube</B>](https://www.youtube.com/@Navin_bhagat) .
+- Explore my [<B>linkedIn</B>](https://www.linkedin.com/in/navin322/)
+- Write to me at: <a href="mailto:navinbhagat322@gmail.com">navinbhagat322@gmail.com</a> | <a href="mailto:kumar.322@iitj.ac.in">kumar.322@iitj.ac.in</a>
+- PS:Why did the machine learning model break up with the dataset?Because it lost interest after too many irrelevant features! 😎🤖
+
+<br>
+
 ## 🛠️ Tools & Languages
 
 <div align="center">
