@@ -20,8 +20,8 @@
 <br>
 
 ## 😃 About me
-
-- `ML Engineer` intern `cxl`.
+- `SDE` intern `PyQuest`.
+- `DS and ML Engineer` intern `cxl`.
 - Product Research and development intern `TATA Steel`.
 - B.Tech from `IIT Jodhpur` with cgpa of `8.15(D.R: 4)`.
 - Ask me about DSA, Machine Learning, Web Dev, Deep Learning, AI, Mathematics, SQL and etc concepts. 
