@@ -20,7 +20,7 @@
 <br>
 
 ## 😃 About me
-- `SDE` intern at `PyQuest`.
+- `Software developer` at `TernoAI CxL`.
 - `DS and ML Engineer` intern at `cxl`.
 - Product Research and development intern `TATA Steel`.
 - B.Tech from `IIT Jodhpur` with cgpa of `8.15(D.R: 4)`.
