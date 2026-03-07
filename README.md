@@ -11,12 +11,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/navinbhagat322/count.svg?" />
-</div>
-
-<br>
-
 ## 😃 About me
 - `Software developer` at `TernoAI CxL`.
 - `DS and ML Engineer` intern at `cxl`.
