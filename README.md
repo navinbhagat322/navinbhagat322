@@ -15,7 +15,7 @@
 - `Software developer` at `TernoAI CxL`.
 - `DS and ML Engineer` intern at `cxl`.
 - Product Research and development intern `TATA Steel`.
-- B.Tech from `IIT Jodhpur` (CGPA: `8.15(D.R: 4)`).
+- B.Tech from `IIT Jodhpur` (CGPA:8.15).
 - Ask me about DSA, Machine Learning, Web Dev, Deep Learning, AI, Mathematics, SQL and etc concepts. 
 - I am into fitness, Meditation, Film-making and Photography.
 - I love to make films, Watch my films on: [<B>youtube</B>](https://www.youtube.com/@Navin_bhagat) .
