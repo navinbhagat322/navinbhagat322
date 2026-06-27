@@ -12,6 +12,7 @@
 <br>
 
 ## 😃 About me
+- checkout my latest work: [<B>TernoDBI</B>](https://github.com/terno-ai/ternodbi) .
 - `Software developer` at `TernoAI CxL`.
 - `DS and ML Engineer` intern at `cxl`.
 - Product Research and development intern `TATA Steel`.
