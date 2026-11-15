@@ -58,6 +58,10 @@ I'm an AI engineer at [TernoAI](https://github.com/terno-ai), building LLM agent
 ## GitHub activity
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=navinbhagat322&label=Profile%20views&color=2c5364&style=flat-square" alt="Profile views">
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=navinbhagat322&theme=transparent&hide_border=true" height="160" alt="GitHub streak stats" />
 </p>
 
